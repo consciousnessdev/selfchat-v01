@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/selfchat-v01/precache-manifest.94deb4fd50ec026e9aae3d828388b548.js"
+  "/selfchat-v01/precache-manifest.17e30ff80d8e9534fda84db6a73c6949.js"
 );
 
 workbox.clientsClaim();
